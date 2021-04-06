@@ -20,8 +20,8 @@ public class Main {
         System.out.println("Bonjour, on vous souhaite la bienvenue sur notre plateforme de reservation\n ");
         System.out.println("Que voulez-vous faire ?");
          System.out.println("1. Faire une reservation ");
-         System.out.println("2. Annuler une reservation en cours ");
-         System.out.println("3. A propos de notre Structure");
+         System.out.println("2. Annuler une reservation ");
+         System.out.println("3. A propos");
          
          // variable pour la Switch() ....
          Scanner chx = new Scanner(System.in);
